@@ -1,0 +1,5 @@
+ExternalSources:
+  type: "std::map<class Es::Uuid,class Es::Path,struct std::less<class Es::Uuid>,class std::allocator<struct std::pair<class Es::Uuid const ,class Es::Path> > >"
+  value:
+    - 9c78a09b-eb2e-4d73-bd94-96ccef4b3db2: "D:/my data/Mavia Zindani/my projects/lens studio projects/3d models/photo_frame.glb"
+  options: 4

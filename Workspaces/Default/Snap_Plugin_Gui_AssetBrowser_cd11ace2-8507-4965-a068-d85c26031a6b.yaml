@@ -1,0 +1,40 @@
+CollapsedEntities:
+  type: stringset
+  value:
+    size: 34
+    values:
+      - 3D_model/photo_frame.glb
+      - 3D_model/photo_frame.glb/.hidden
+      - 3D_model/photo_frame.glb/.hidden/Frame1
+      - 3D_model/photo_frame.glb/Materials
+      - 3D_model/photo_frame.glb/Materials/Frame1
+      - 3D_model/photo_frame.glb/Materials/Paper1
+      - 3D_model/photo_frame.glb/Materials/Plexiglass1
+      - 3D_model/photo_frame.glb/Materials/Wood1
+      - 3D_model/photo_frame.glb/Meshes
+      - 3D_model/photo_frame.glb/Meshes/Frame_Frame1_0
+      - 3D_model/photo_frame.glb/Meshes/Paper_Paper1_0
+      - 3D_model/photo_frame.glb/Meshes/Plexiglass_Plexiglass1_0
+      - 3D_model/photo_frame.glb/Meshes/Wood_Wood1_0
+      - 3D_model/photo_frame.glb/Textures
+      - 3D_model/photo_frame.glb/Textures/texture
+      - 3D_model/photo_frame.glb/Textures/texture 12
+      - 3D_model/photo_frame.glb/Textures/texture 14
+      - 3D_model/photo_frame.glb/Textures/texture 16
+      - 3D_model/photo_frame.glb/Textures/texture 3
+      - 3D_model/photo_frame.glb/Textures/texture 4
+      - 3D_model/photo_frame.glb/Textures/texture 5
+      - 3D_model/photo_frame.glb/Textures/texture 7
+      - 3D_model/photo_frame.glb/Textures/texture 9
+      - 3D_model/photo_frame.glb/Textures/texture1
+      - 3D_model/photo_frame.glb/photo_frame
+      - Echopark.hdr
+      - PBR.mat
+      - World Object Controller.lspkg/Materials
+      - World Object Controller.lspkg/Meshes
+      - World Object Controller.lspkg/Shaders
+      - World Object Controller.lspkg/Textures
+      - World Object Controller.lspkg/package.native
+      - pbr.ss_graph
+      - script/TapSpawer.js
+  options: 4

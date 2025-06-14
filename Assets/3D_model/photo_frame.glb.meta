@@ -1,0 +1,431 @@
+- !<AssetImportMetadata/9c78a09b-eb2e-4d73-bd94-96ccef4b3db2>
+  ImportedAssetIds:
+    .hidden/Frame1: !<reference> f70834bf-05fb-40ae-ac43-929aaa82cc7a
+    01713c860d17a864: !<reference> 56b0e8e3-fce3-417a-a024-9adaa25e33c7
+    07375c215c75d41e: !<reference> a0537525-1bac-4109-9276-8bdf7a5c4490
+    2711a234b87c9496: !<reference> 6a74a7ee-3159-4a98-9492-5cd66ece0a11
+    30c5fb5598e1ef22: !<reference> a48eb23a-cc75-40e7-93bd-6cab7b29b25e
+    32b07d21ef99040d: !<reference> 9649427c-bef6-46f2-b792-990009461f54
+    3aedeb46cfd0db8f: !<reference> 4b42118f-05cd-42c2-8045-fc4e772e98dd
+    4b8bea0be66a304c: !<reference> 1f6b7462-a08f-4673-9ec6-e56079317ae2
+    5b6222a8c43f9403: !<reference> 56b822d8-8bfc-44fa-b0ef-171a1267740c
+    6219d73ae8e2a78e: !<reference> f5a92ec8-9e2d-4b80-b979-8670c217d284
+    624f6792bd6e379e: !<reference> 9c25d1fe-a833-4809-a8c6-4d5937b2df36
+    66879c88aba1c9f0: !<reference> 666d29a1-f32d-447b-a975-f8de9dc158ce
+    7a0dd5cd69df73fa: !<reference> 85ffa809-1185-4bbc-9a5f-1bdc4b75c7f3
+    7fe1c70921a50453: !<reference> a2775795-d34e-4450-a1ba-233a7f68f5b7
+    83437620bbb97154: !<reference> b3ff78cc-952b-4a95-ae74-924228fb5f82
+    836554558f1ca498: !<reference> 587ca96c-8209-4ea4-a410-20d4653976ed
+    Materials/Frame1: !<reference> 08f0ab42-0c92-4d92-b6f1-e61ce69e9a20
+    Materials/Frame1|Frame1|GraphPassInfo: !<reference> 09ce9710-11e0-4b07-b4cb-29c98d9bc2da
+    Materials/Paper1: !<reference> 3dc28db1-9fd5-4193-9784-824ca2688937
+    Materials/Paper1|Paper1|GraphPassInfo: !<reference> d4d75d9a-18b4-4043-a0b2-59661eb89fc3
+    Materials/Plexiglass1: !<reference> ec49843d-d238-4b5f-9622-92fd9654d1d3
+    Materials/Plexiglass1|Plexiglass1|GraphPassInfo: !<reference> efe5051c-6f45-45f4-bee0-216b8703c6c2
+    Materials/Wood1: !<reference> 7e971058-854b-483a-b496-83eacd0e342f
+    Materials/Wood1|Wood1|GraphPassInfo: !<reference> 496d3d66-535e-4d1e-a6cd-743bbdcfa191
+    Meshes/Frame_Frame1_0: !<reference> e4af6a2d-313d-4875-961f-879014f82a6f
+    Meshes/Paper_Paper1_0: !<reference> 5591b601-4089-46fd-8fd2-2ccea8faf7ad
+    Meshes/Plexiglass_Plexiglass1_0: !<reference> 56f7fdce-f311-4da6-9433-45f9eb1ca05d
+    Meshes/Wood_Wood1_0: !<reference> 9dc3b527-b650-4204-bca3-e1fa2bff092f
+    Scene: !<reference> 54214e44-6457-4262-832a-99a8fed16709
+    Textures/texture: !<reference> b3b514a7-1c27-41de-a173-c33b3451b09b
+    Textures/texture 12: !<reference> 4c26f4a1-7319-43c5-9b72-afe884b909bd
+    Textures/texture 14: !<reference> 76ea4a97-e8f6-44c0-8a9b-c87c4a280c62
+    Textures/texture 16: !<reference> 014e4b08-9b8a-45fe-b56e-cc7703dfa017
+    Textures/texture 3: !<reference> e1198022-b5b6-45bc-bf1f-4cc67f15a0e4
+    Textures/texture 4: !<reference> dc7b8dc5-4e52-42a4-a88f-5fa4403c3f8a
+    Textures/texture 5: !<reference> a873d9f8-a4dd-4bf7-b58a-d2fd22359659
+    Textures/texture 7: !<reference> f501bb2d-b069-422b-aaba-ea056447b0fb
+    Textures/texture 9: !<reference> 29da6f9d-2906-4205-b574-8c4cf4a598d7
+    Textures/texture1: !<reference> 5f276f59-f6d5-49ed-91db-4da2c73a1667
+    a1674635dfb6fb2d: !<reference> 7e8ac0b9-6b59-4e49-9855-c85598de609d
+    d466edf07dca0e8d: !<reference> 81fae625-5ded-4b1c-8cdf-94d50ba3e515
+    d9bfb9247e23a15d: !<reference> ce7baa94-24f8-4363-be6d-6d057730d5ac
+    e8a935c4c00a5320: !<reference> fc3de6c2-2b76-4464-a708-d81b4a45a6ac
+    f481972c5b544a68: !<reference> c3f82e49-38e5-4d10-ba98-5c2fa014a515
+  ImporterName: GltfImporter
+  PrimaryAsset: !<reference> 54214e44-6457-4262-832a-99a8fed16709
+  PackageType: LegacyPackage
+  PackagePolicy: CanBeUnpacked
+  ExtraData:
+    {}
+  AssetDataMap:
+    Scene: !<own> 97caca45-5daf-42c8-a9ad-ac945a8da171
+  DependentFiles:
+    []
+  ImporterSettings: !<GltfImporterSettings>
+    UseLegacyImporter: false
+    WithMaterials: true
+    NamingConvention: ByCategorySanitizeV2
+    PersistentIdGenerationAlgorithm: DescriptorBased
+    AnimationCurveOptimization: true
+    CustomAnimationSamplingRate: 30.000000
+    ImportVertexColor: true
+    ImportTangents: true
+    ImportMorphTargetAnimation: true
+    ConvertMetersToCentimeters: true
+    RegenerateTangents: false
+  CompressionSettings: !<ComplexCompressionSettings>
+    Presets:
+      None Compression: !<SingleCompressionSettings>
+        CompressorName: None
+        CompressionSettings: !<own> 00000000-0000-0000-0000-000000000000
+      Performance Compression: !<SingleCompressionSettings>
+        CompressorName: Performance
+        CompressionSettings: !<TextureCompressionMipmapSettings>
+          Level: Medium
+          Mipmap: false
+    ExtensionMappings:
+      mesh: None Compression
+      jpeg: Performance Compression
+      png: Performance Compression
+    Overrides:
+      {}
+- !<SceneObject/1da1982a-bdf6-451f-a1f1-ebd146f1f117>
+  PrefabRemaps:
+    []
+  Name: Wood
+  Enabled: true
+  Layers: 1
+  LocalTransform:
+    position: {x: 0.391219, y: 0.030619, z: 0.226601}
+    rotation: {x: 0.000000, y: -0.000000, z: 0.000000}
+    scale: {x: 1.000000, y: 1.000000, z: 1.000000}
+    hasSegmentScaleCompensation: false
+  Children:
+    - !<own> ed18d3a3-4f80-471c-b326-23c74a0cc9a0
+  Components:
+    []
+- !<SceneObject/25fab3a7-f92b-4e3d-8c67-3679bbe8229a>
+  PrefabRemaps:
+    []
+  Name: Plexiglass
+  Enabled: true
+  Layers: 1
+  LocalTransform:
+    position: {x: -6.611022, y: 7.515248, z: 1.173844}
+    rotation: {x: 0.000000, y: -0.000000, z: 0.000000}
+    scale: {x: 1.000000, y: 1.000000, z: 1.000000}
+    hasSegmentScaleCompensation: false
+  Children:
+    - !<own> 2f1b0817-8c18-429e-9382-e8590a4607a8
+  Components:
+    []
+- !<SceneObject/2a0e1f5c-1b18-4864-8a00-0e720c60d4ce>
+  PrefabRemaps:
+    []
+  Name: Sketchfab_model
+  Enabled: true
+  Layers: 1
+  LocalTransform:
+    position: {x: 0.000000, y: 0.000000, z: 0.000000}
+    rotation: {x: -90.000000, y: 0.000000, z: 0.000000}
+    scale: {x: 1.000000, y: 1.000000, z: 1.000000}
+    hasSegmentScaleCompensation: false
+  Children:
+    - !<own> 3f307b1a-edb3-4fab-9f57-b945db341af0
+  Components:
+    []
+- !<RenderMeshVisual/2aa5bc1f-ec55-4aeb-bb3d-84bbbe98d287>
+  PrefabRemaps:
+    []
+  Name: Wood_Wood1_0
+  Enabled: true
+  RenderOrder: 0
+  StretchMode: Stretch
+  VerticalAlignment: Center
+  HorizontalAlignment: Center
+  MeshShadowMode: None
+  ShadowColor: {x: 1.000000, y: 1.000000, z: 1.000000, w: 1.000000}
+  ShadowDensity: 1.000000
+  Materials:
+    - !<reference> 7e971058-854b-483a-b496-83eacd0e342f
+  Mesh: !<reference> 9dc3b527-b650-4204-bca3-e1fa2bff092f
+  Skin: !<reference> 00000000-0000-0000-0000-000000000000
+  BlendShapesEnabled: true
+  BlendNormals: false
+  BlendShapes:
+    {}
+- !<SceneObject/2af2d869-b700-42b6-a658-5b9ad8b751fa>
+  PrefabRemaps:
+    []
+  Name: Scenes
+  Enabled: true
+  Layers: 1
+  LocalTransform:
+    position: {x: 0.000000, y: 0.000000, z: 0.000000}
+    rotation: {x: 0.000000, y: 0.000000, z: 0.000000}
+    scale: {x: 1.000000, y: 1.000000, z: 1.000000}
+    hasSegmentScaleCompensation: false
+  Children:
+    - !<own> 6a1cf466-7762-42a7-bac7-f859568cf8bb
+  Components:
+    []
+- !<SceneObject/2f1b0817-8c18-429e-9382-e8590a4607a8>
+  PrefabRemaps:
+    []
+  Name: Plexiglass_Plexiglass1_0
+  Enabled: true
+  Layers: 1
+  LocalTransform:
+    position: {x: 0.000000, y: 0.000000, z: 0.000000}
+    rotation: {x: 0.000000, y: 0.000000, z: 0.000000}
+    scale: {x: 1.000000, y: 1.000000, z: 1.000000}
+    hasSegmentScaleCompensation: false
+  Children:
+    []
+  Components:
+    - !<own> 7c0a5bf5-19a0-4fe8-9c74-31775332cf30
+- !<RenderMeshVisual/34952ce8-f54e-4141-bc10-7179776444a4>
+  PrefabRemaps:
+    []
+  Name: Paper_Paper1_0
+  Enabled: true
+  RenderOrder: 0
+  StretchMode: Stretch
+  VerticalAlignment: Center
+  HorizontalAlignment: Center
+  MeshShadowMode: None
+  ShadowColor: {x: 1.000000, y: 1.000000, z: 1.000000, w: 1.000000}
+  ShadowDensity: 1.000000
+  Materials:
+    - !<reference> 3dc28db1-9fd5-4193-9784-824ca2688937
+  Mesh: !<reference> 5591b601-4089-46fd-8fd2-2ccea8faf7ad
+  Skin: !<reference> 00000000-0000-0000-0000-000000000000
+  BlendShapesEnabled: true
+  BlendNormals: false
+  BlendShapes:
+    {}
+- !<SceneObject/3f307b1a-edb3-4fab-9f57-b945db341af0>
+  PrefabRemaps:
+    []
+  Name: PosterFrame.fbx
+  Enabled: true
+  Layers: 1
+  LocalTransform:
+    position: {x: 0.000000, y: 0.000000, z: 0.000000}
+    rotation: {x: 90.000000, y: -0.000000, z: 0.000000}
+    scale: {x: 0.010000, y: 0.010000, z: 0.010000}
+    hasSegmentScaleCompensation: false
+  Children:
+    - !<own> 7070bb1d-6a21-4085-9426-6325e3973856
+  Components:
+    []
+- !<AnimationPlayer/55539b20-71b3-4fc2-abe5-5408216cb953>
+  PrefabRemaps:
+    []
+  Name: component_4
+  Enabled: true
+  Autoplay: true
+  ClipRangeType: Frames
+  AnimationClips:
+    []
+- !<SceneObject/6a1cf466-7762-42a7-bac7-f859568cf8bb>
+  PrefabRemaps:
+    []
+  Name: Sketchfab_Scene
+  Enabled: true
+  Layers: 1
+  LocalTransform:
+    position: {x: 0.000000, y: 0.000000, z: 0.000000}
+    rotation: {x: 0.000000, y: 0.000000, z: 0.000000}
+    scale: {x: 1.000000, y: 1.000000, z: 1.000000}
+    hasSegmentScaleCompensation: false
+  Children:
+    - !<own> 2a0e1f5c-1b18-4864-8a00-0e720c60d4ce
+  Components:
+    - !<own> 55539b20-71b3-4fc2-abe5-5408216cb953
+- !<SceneObject/7070bb1d-6a21-4085-9426-6325e3973856>
+  PrefabRemaps:
+    []
+  Name: RootNode
+  Enabled: true
+  Layers: 1
+  LocalTransform:
+    position: {x: 0.000000, y: 0.000000, z: 0.000000}
+    rotation: {x: 0.000000, y: 0.000000, z: 0.000000}
+    scale: {x: 1.000000, y: 1.000000, z: 1.000000}
+    hasSegmentScaleCompensation: false
+  Children:
+    - !<own> f3767e40-0f60-420d-abed-084bbd78352d
+  Components:
+    []
+- !<SceneObject/76c00d97-eb80-4e61-b119-348554dea5f4>
+  PrefabRemaps:
+    []
+  Name: Frame
+  Enabled: true
+  Layers: 1
+  LocalTransform:
+    position: {x: 0.000000, y: 0.000000, z: 0.000000}
+    rotation: {x: 0.000000, y: 0.000000, z: 0.000000}
+    scale: {x: 1.000000, y: 1.000000, z: 1.000000}
+    hasSegmentScaleCompensation: false
+  Children:
+    - !<own> dfa3e8b4-6641-41c0-9258-0dfa0e58af8b
+  Components:
+    []
+- !<RenderMeshVisual/7bf0ba04-f65f-4b72-a9c9-9771c9bfc7a4>
+  PrefabRemaps:
+    []
+  Name: Frame_Frame1_0
+  Enabled: true
+  RenderOrder: 0
+  StretchMode: Stretch
+  VerticalAlignment: Center
+  HorizontalAlignment: Center
+  MeshShadowMode: None
+  ShadowColor: {x: 1.000000, y: 1.000000, z: 1.000000, w: 1.000000}
+  ShadowDensity: 1.000000
+  Materials:
+    - !<reference> 08f0ab42-0c92-4d92-b6f1-e61ce69e9a20
+  Mesh: !<reference> e4af6a2d-313d-4875-961f-879014f82a6f
+  Skin: !<reference> 00000000-0000-0000-0000-000000000000
+  BlendShapesEnabled: true
+  BlendNormals: false
+  BlendShapes:
+    {}
+- !<RenderMeshVisual/7c0a5bf5-19a0-4fe8-9c74-31775332cf30>
+  PrefabRemaps:
+    []
+  Name: Plexiglass_Plexiglass1_0
+  Enabled: true
+  RenderOrder: 0
+  StretchMode: Stretch
+  VerticalAlignment: Center
+  HorizontalAlignment: Center
+  MeshShadowMode: None
+  ShadowColor: {x: 1.000000, y: 1.000000, z: 1.000000, w: 1.000000}
+  ShadowDensity: 1.000000
+  Materials:
+    - !<reference> ec49843d-d238-4b5f-9622-92fd9654d1d3
+  Mesh: !<reference> 56f7fdce-f311-4da6-9433-45f9eb1ca05d
+  Skin: !<reference> 00000000-0000-0000-0000-000000000000
+  BlendShapesEnabled: true
+  BlendNormals: false
+  BlendShapes:
+    {}
+- !<SceneObject/8a7a4ba0-4c28-42e8-b8eb-9571b1b10173>
+  PrefabRemaps:
+    []
+  Name: Paper_Paper1_0
+  Enabled: true
+  Layers: 1
+  LocalTransform:
+    position: {x: 0.000000, y: 0.000000, z: 0.000000}
+    rotation: {x: 0.000000, y: 0.000000, z: 0.000000}
+    scale: {x: 1.000000, y: 1.000000, z: 1.000000}
+    hasSegmentScaleCompensation: false
+  Children:
+    []
+  Components:
+    - !<own> 34952ce8-f54e-4141-bc10-7179776444a4
+- !<ObjectPrefabAssetData/97caca45-5daf-42c8-a9ad-ac945a8da171>
+  SourceRemaps:
+    - 1f6b7462-a08f-4673-9ec6-e56079317ae2: 76c00d97-eb80-4e61-b119-348554dea5f4
+    - 4b42118f-05cd-42c2-8045-fc4e772e98dd: 2f1b0817-8c18-429e-9382-e8590a4607a8
+    - 54214e44-6457-4262-832a-99a8fed16709: cb31fc86-eae7-4841-8f37-8acf7b26cd1d
+    - 56b0e8e3-fce3-417a-a024-9adaa25e33c7: 9d2f3930-22ce-4ff2-b68c-25ae13b96642
+    - 56b822d8-8bfc-44fa-b0ef-171a1267740c: 34952ce8-f54e-4141-bc10-7179776444a4
+    - 587ca96c-8209-4ea4-a410-20d4653976ed: 55539b20-71b3-4fc2-abe5-5408216cb953
+    - 666d29a1-f32d-447b-a975-f8de9dc158ce: dfa3e8b4-6641-41c0-9258-0dfa0e58af8b
+    - 6a74a7ee-3159-4a98-9492-5cd66ece0a11: 3f307b1a-edb3-4fab-9f57-b945db341af0
+    - 7e8ac0b9-6b59-4e49-9855-c85598de609d: 1da1982a-bdf6-451f-a1f1-ebd146f1f117
+    - 81fae625-5ded-4b1c-8cdf-94d50ba3e515: 7c0a5bf5-19a0-4fe8-9c74-31775332cf30
+    - 85ffa809-1185-4bbc-9a5f-1bdc4b75c7f3: ffba66cd-f636-4244-8f30-0a430af9f455
+    - 9649427c-bef6-46f2-b792-990009461f54: f3767e40-0f60-420d-abed-084bbd78352d
+    - 9c25d1fe-a833-4809-a8c6-4d5937b2df36: 2af2d869-b700-42b6-a658-5b9ad8b751fa
+    - a0537525-1bac-4109-9276-8bdf7a5c4490: 2aa5bc1f-ec55-4aeb-bb3d-84bbbe98d287
+    - a2775795-d34e-4450-a1ba-233a7f68f5b7: 25fab3a7-f92b-4e3d-8c67-3679bbe8229a
+    - a48eb23a-cc75-40e7-93bd-6cab7b29b25e: 7bf0ba04-f65f-4b72-a9c9-9771c9bfc7a4
+    - b3ff78cc-952b-4a95-ae74-924228fb5f82: 2a0e1f5c-1b18-4864-8a00-0e720c60d4ce
+    - c3f82e49-38e5-4d10-ba98-5c2fa014a515: 7070bb1d-6a21-4085-9426-6325e3973856
+    - ce7baa94-24f8-4363-be6d-6d057730d5ac: 8a7a4ba0-4c28-42e8-b8eb-9571b1b10173
+    - f5a92ec8-9e2d-4b80-b979-8670c217d284: 6a1cf466-7762-42a7-bac7-f859568cf8bb
+    - fc3de6c2-2b76-4464-a708-d81b4a45a6ac: ed18d3a3-4f80-471c-b326-23c74a0cc9a0
+  SourceState: !<own> cb31fc86-eae7-4841-8f37-8acf7b26cd1d
+- !<SceneObject/9d2f3930-22ce-4ff2-b68c-25ae13b96642>
+  PrefabRemaps:
+    []
+  Name: Paper
+  Enabled: true
+  Layers: 1
+  LocalTransform:
+    position: {x: 10.048651, y: 0.086992, z: 6.250279}
+    rotation: {x: 0.000000, y: 90.000000, z: 0.000000}
+    scale: {x: 1.000000, y: 1.000000, z: 1.000000}
+    hasSegmentScaleCompensation: false
+  Children:
+    - !<own> 8a7a4ba0-4c28-42e8-b8eb-9571b1b10173
+  Components:
+    []
+- !<ObjectPrefab/cb31fc86-eae7-4841-8f37-8acf7b26cd1d>
+  PackagePath: ""
+  objects:
+    - !<own> ffba66cd-f636-4244-8f30-0a430af9f455
+  LazyLoading: false
+  RetainAssets: true
+- !<SceneObject/dfa3e8b4-6641-41c0-9258-0dfa0e58af8b>
+  PrefabRemaps:
+    []
+  Name: Frame_Frame1_0
+  Enabled: true
+  Layers: 1
+  LocalTransform:
+    position: {x: 0.000000, y: 0.000000, z: 0.000000}
+    rotation: {x: 0.000000, y: 0.000000, z: 0.000000}
+    scale: {x: 1.000000, y: 1.000000, z: 1.000000}
+    hasSegmentScaleCompensation: false
+  Children:
+    []
+  Components:
+    - !<own> 7bf0ba04-f65f-4b72-a9c9-9771c9bfc7a4
+- !<SceneObject/ed18d3a3-4f80-471c-b326-23c74a0cc9a0>
+  PrefabRemaps:
+    []
+  Name: Wood_Wood1_0
+  Enabled: true
+  Layers: 1
+  LocalTransform:
+    position: {x: 0.000000, y: 0.000000, z: 0.000000}
+    rotation: {x: 0.000000, y: 0.000000, z: 0.000000}
+    scale: {x: 1.000000, y: 1.000000, z: 1.000000}
+    hasSegmentScaleCompensation: false
+  Children:
+    []
+  Components:
+    - !<own> 2aa5bc1f-ec55-4aeb-bb3d-84bbbe98d287
+- !<SceneObject/f3767e40-0f60-420d-abed-084bbd78352d>
+  PrefabRemaps:
+    []
+  Name: PosterFrame
+  Enabled: true
+  Layers: 1
+  LocalTransform:
+    position: {x: 0.000000, y: 0.000000, z: 0.000000}
+    rotation: {x: 90.000000, y: -0.000000, z: -90.000000}
+    scale: {x: 1.000000, y: 1.000000, z: 1.000000}
+    hasSegmentScaleCompensation: false
+  Children:
+    - !<own> 76c00d97-eb80-4e61-b119-348554dea5f4
+    - !<own> 1da1982a-bdf6-451f-a1f1-ebd146f1f117
+    - !<own> 9d2f3930-22ce-4ff2-b68c-25ae13b96642
+    - !<own> 25fab3a7-f92b-4e3d-8c67-3679bbe8229a
+  Components:
+    []
+- !<SceneObject/ffba66cd-f636-4244-8f30-0a430af9f455>
+  PrefabRemaps:
+    []
+  Name: photo_frame
+  Enabled: true
+  Layers: 1
+  LocalTransform:
+    position: {x: 0.000000, y: 0.000000, z: 0.000000}
+    rotation: {x: 0.000000, y: -0.000000, z: 0.000000}
+    scale: {x: 100.000000, y: 100.000000, z: 100.000000}
+    hasSegmentScaleCompensation: false
+  Children:
+    - !<own> 2af2d869-b700-42b6-a658-5b9ad8b751fa
+  Components:
+    []
