@@ -29,14 +29,16 @@
   MaxVisibility: Editable
   ScriptInputsHidden:
     camera: false
+    modelScale: false
     modelToSpawn: false
   ScriptTypesHidden:
     {}
   ReadMe: !<reference> 00000000-0000-0000-0000-000000000000
   DeclarationFile: !<reference> 00000000-0000-0000-0000-000000000000
   DefaultScriptInputs:
-    - modelToSpawn: !<reference.SceneObject> 00000000-0000-0000-0000-000000000000
-      camera: !<reference.Camera> 00000000-0000-0000-0000-000000000000
+    - camera: !<reference.Camera> 00000000-0000-0000-0000-000000000000
+      modelToSpawn: !<reference.SceneObject> 00000000-0000-0000-0000-000000000000
+      modelScale: !<float> 100.000000
   ScriptTypes:
     -
       {}
